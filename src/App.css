@@ -1,0 +1,52 @@
+.maincontainer {
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.container {
+
+  margin-top: 100px;
+  width: 100%;
+  height: 200px;
+  /* border: 2px solid black; */
+
+}
+
+input {
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  width: 20%;
+  padding: 5px;
+
+}
+
+button {
+  padding: 5px;
+  background-color: rgb(29, 64, 223);
+  color: aliceblue;
+  margin-left: 10px;
+  border: none;
+
+}
+
+.maindisplaycontainer
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  
+}
+
+.displaycontainer
+{
+  background-color: aliceblue;
+  width: 40%;
+  padding: 15px;
+  height: 100px;
+}
